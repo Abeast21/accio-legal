@@ -28,4 +28,4 @@ You agree not to:
 Accio is provided as-is. We are not responsible for any data loss. Always keep a backup of important information.
 
 ## Contact
-For questions about these terms: appdev21000@email.com
+For questions about these terms: appdev21000@gmail.com
